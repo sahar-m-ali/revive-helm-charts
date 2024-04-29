@@ -1,0 +1,35 @@
+       repository:
+         tag:   jenkins-8
+         assets:
+          image: sahar5470/assets
+       
+         carts:
+          image: sahar5470/cart
+       
+         cart_dynamodb:
+          image: sahar5470/cart-dynamodb
+        
+         catalog:
+          image: sahar5470/catalog
+       
+        
+         catalog_mysql:
+          image: sahar5470/catalog-mysql
+       
+         checkout:
+          image: sahar5470/checkout
+       
+         checkout_redis:
+          image: sahar5470/checkout-redis
+       
+         orders:
+          image: sahar5470/orders
+       
+         orders_mysql:
+          image: sahar5470/orders-mysql
+       
+         orders_rabbitmq:
+          image: sahar5470/orders-rabbitmq 
+       
+         ui:
+          image: sahar5470/ui
