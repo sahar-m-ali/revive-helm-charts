@@ -1,5 +1,5 @@
        repository:
-         tag:   jenkins-8
+         tag:   jenkins-31
          assets:
           image: sahar5470/assets
        
