@@ -1,13 +1,13 @@
        repository:
          tag:   jenkins-31
          assets:
-          image: sahar5470/assets
+          image: sahar5470/asset
        
          carts:
-          image: sahar5470/cart
+          image: sahar5470/carts
        
          cart_dynamodb:
-          image: sahar5470/cart-dynamodb
+          image: sahar5470/carts-dynamodb
         
          catalog:
           image: sahar5470/catalog
