@@ -20,7 +20,7 @@
           image: sahar5470/checkout
        
          checkout_redis:
-          image: sahar5470/checkout-redis
+          image: sahar5470/checkout-db
        
          orders:
           image: sahar5470/orders
